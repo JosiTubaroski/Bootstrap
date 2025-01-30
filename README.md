@@ -6,17 +6,17 @@ O Bootstrap é um framework front-end de código aberto que facilita o desenvolv
 
 ### Principais características do Bootstrap
 
-🔹Responsividade 📱💻 - Utiliza um sistema de grid flexível que se adapta a diferentes tamanhos de tela.
-🔹Facilidade de uso 🎨 -  Oferece componentes prontos como botões, formulários, cards, modais, navegação, etc.
-🔹Compatibilidade 🌍 - Funciona bem em diferentes navegadores sem necessidade de ajustes manuais.
-🔹Personalização 🎭 – Pode ser customizado com variáveis CSS e classes personalizadas.
-🔹 Integração com JavaScript ⚡ – Inclui funcionalidades interativas com jQuery e agora suporta JavaScript puro (Vanilla JS).
+<p>🔹Responsividade 📱💻 - Utiliza um sistema de grid flexível que se adapta a diferentes tamanhos de tela.</p>
+<p>🔹Facilidade de uso 🎨 -  Oferece componentes prontos como botões, formulários, cards, modais, navegação, etc.</p>
+<p>🔹Compatibilidade 🌍 - Funciona bem em diferentes navegadores sem necessidade de ajustes manuais.</p>
+<p>🔹Personalização 🎭 – Pode ser customizado com variáveis CSS e classes personalizadas.</p>
+<p>🔹 Integração com JavaScript ⚡ – Inclui funcionalidades interativas com jQuery e agora suporta JavaScript puro (Vanilla JS).</p>
 
 ### Quando usar o Bootstrap?
 
-✅ Para criar páginas responsivas rapidamente.
-✅ Para projetos que precisam de um design consistente.
-✅ Para desenvolvedores que querem evitar escrever muito CSS do zero.
+<p>✅ Para criar páginas responsivas rapidamente.</p>
+<p>✅ Para projetos que precisam de um design consistente.</p>
+<p>✅ Para desenvolvedores que querem evitar escrever muito CSS do zero.</p>
 
 Se quiser mais controle sobre o design, pode usar Tailwind CSS, mas o Bootstrap continua sendo uma ótima escolha para projetos rápidos e eficazes. 🚀
 
