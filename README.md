@@ -33,6 +33,14 @@ O design responsivo é possível graças a algumas técnicas:
 <p>✅ Grid Flexível - Usa unidades relativas como % e vw/vh ao invés de px fixos.</p>
 <p>✅ Imagens e elementos flexíveis - Ajustam automaticamente seu tamanho para não ultrapassar os limites da tela.</p>
 
+### Por que a responsividade é importante?
+
+<p>📈 Melhor experiência do usuário – Sites fáceis de navegar aumentam o tempo de permanência.</p>
+<p>🔍 SEO (Google Ranking) – O Google prioriza sites responsivos nos resultados de busca.</p>
+<p>📱 Adaptação ao mobile – A maioria dos acessos à internet hoje é feita pelo celular.</p>
+
+Em resumo, páginas responsivas garantem que seu site funcione bem em qualquer dispositivo, melhorando a experiência do usuário e o desempenho do site! 🚀
+
 ### Criando Tela de Login
 
 <img src="https://github.com/JosiTubaroski/Bootstrap/blob/main/Bootstrap.png">
