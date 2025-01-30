@@ -20,6 +20,19 @@ O Bootstrap é um framework front-end de código aberto que facilita o desenvolv
 
 Se quiser mais controle sobre o design, pode usar Tailwind CSS, mas o Bootstrap continua sendo uma ótima escolha para projetos rápidos e eficazes. 🚀
 
+### O que são páginas responsivas?
+
+Uma página responsiva é um site ou aplicação web que se adapta automaticamente a diferentes tamanhos de tela e dispositivos, como celulares, tablets, notebooks e desktops.
+Isso significa que, independentemente do dispositivo que o usuário estiver usando, a experiência será confortável, sem precisar dar zoom, rolar horizontalmente ou enfrentar elementos desorganizados.
+
+### Como funciona o design responsivo?
+
+O design responsivo é possível graças a algumas técnicas:
+
+<p>✅ Media Queries (CSS) – Permitem definir estilos diferentes para diferentes tamanhos de tela.</p>
+<p>✅ Grid Flexível - Usa unidades relativas como % e vw/vh ao invés de px fixos.</p>
+<p>✅ Imagens e elementos flexíveis - Ajustam automaticamente seu tamanho para não ultrapassar os limites da tela.</p>
+
 ### Criando Tela de Login
 
 <img src="https://github.com/JosiTubaroski/Bootstrap/blob/main/Bootstrap.png">
